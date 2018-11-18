@@ -9,6 +9,6 @@
     <Grid>
         <Button Content="Przycisk" HorizontalAlignment="Left" Margin="408,218,0,0" VerticalAlignment="Top" Width="75"/>
         <Label Content="Etykieta" HorizontalAlignment="Left" Margin="390,143,0,0" VerticalAlignment="Top"/>
-        <Label Content="Label" HorizontalAlignment="Left" Margin="248,154,0,0" VerticalAlignment="Top" Width="87"/>
+        <Label Content="Label1" HorizontalAlignment="Left" Margin="248,154,0,0" VerticalAlignment="Top" Width="87"/>
     </Grid>
 </Window>
